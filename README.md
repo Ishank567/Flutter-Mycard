@@ -1,4 +1,4 @@
-# micard
+# MyCard
 
 A new Flutter project.
 
