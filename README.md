@@ -1,6 +1,6 @@
 # MyCard
 
-A new Flutter project.
+Profile Card
 
 ## Getting Started
 
